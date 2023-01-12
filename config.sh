@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_7.1"
-export DT_LINK="https://github.com/seluce/android_device_cubot_rainbow.git -b fox_7.1"
+export FOX_BRANCH="fox_12.1"
+export DT_LINK="https://github.com/seluce/android_device_cubot_rainbow.git -b fox_12.1"
 
 export DEVICE="cubot"
 export OEM="cubot"
